@@ -2654,5 +2654,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
         </tr>
+        <tr>
+             <td align="center">
+                <a href="https://github.com/account">
+                    <img src="https://avatars.githubusercontent.com/u/170794634?v=4" width="100px;" alt="Balu"/>
+                    <br />
+                    <sub><b>Balu</b></sub>
+                </a> 
+            </td>
+        </tr>
     </tbody>
 </table>
